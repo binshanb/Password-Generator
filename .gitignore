@@ -1,0 +1,6 @@
+/backend/venv/
+/backend/apps/users/migrations
+/backend/apps/password_generator/migrations
+/backend/apps/__pycache__
+/backend/apps/users/__pycache__
+/backend/apps/password_generator/__pycache__
